@@ -7,7 +7,7 @@ tools: "ChatGPT（有料アカウント 10 件）、生成 AI 利用ガイドラ
 period: "2023年5月上旬から試行。2023年6月30日の発表で、7月からの全庁利用を表明（試行の終了日は公表資料に記載なし）"
 cost: "有料アカウント 1 件あたり月 2,000 円台（会見での担当課長の発言）。10 件を使用。合計額と人件費は公表資料に記載なし"
 effect: "表現を練る作業は 30 分が 5 分に、記者会見資料の原案づくりは半日程度が 1 時間程度（約 8 割減）になったと、担当者が述べた。どちらも計測した数字ではなく、担当者の印象"
-source: "長岡市の記者会見資料「ChatGPT 試行利用とその学び」の別紙 1（2023年6月30日） https://www.city.nagaoka.niigata.jp/shityo/kaiken_i/file/20230630-3-2.pdf と、同日の市長記者会見要旨 https://www.city.nagaoka.niigata.jp/shityo/kaiken_i/file/20230630-01.pdf"
+source: "長岡市の記者会見資料「ChatGPT 試行利用とその学び」（2023年6月30日） https://www.city.nagaoka.niigata.jp/shityo/kaiken_i/file/20230630-3-1.pdf 、別紙 1 https://www.city.nagaoka.niigata.jp/shityo/kaiken_i/file/20230630-3-2.pdf 、別紙 2 の利用ガイドライン https://www.city.nagaoka.niigata.jp/shityo/kaiken_i/file/20230630-3-3.pdf 、同日の市長記者会見要旨 https://www.city.nagaoka.niigata.jp/shityo/kaiken_i/file/20230630-01.pdf 、後の調達仕様書 https://www.city.nagaoka.niigata.jp/sangyou/cate09/propo/file/r06propo04-03.pdf"
 published: 2026-11-26
 consent: "公表資料のみ"
 ---
