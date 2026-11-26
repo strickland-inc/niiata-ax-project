@@ -1,4 +1,4 @@
-# japan-ax-project
+# niigata-ax-project
 
 自治体や地域の事業者が AI で業務を変えるための、勉強会の資料と事例を集めるリポジトリ。文章、資料、事例は CC BY 4.0。
 
