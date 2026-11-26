@@ -36,4 +36,4 @@ cases/
 
 | 地域 | 事例の数 |
 |---|---|
-| [niigata](niigata/) | 0 |
+| [niigata](niigata/) | 1 |
